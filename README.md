@@ -32,10 +32,14 @@ If your keyboard does not have an AltGr key then you can use right alt instead.
 | Æ         | AltGr+a E    | 
 |           | AltGr+A e    |
 |           | AltGr+A E    |  
-| ø         | AltGr+o o    | 
+| ø         | AltGr+o o    |
+|           | AltGr+o e    | 
 | Ø         | AltGr+o O    |  
 |           | AltGr+O o    |  
-|           | AltGr+O O    |  
+|           | AltGr+O O    |
+|           | AltGr+o E    |
+|           | AltGr+O e    |
+|           | AltGr+O E    |  
 
 ## How to Use (Elaborated)
 <details>
