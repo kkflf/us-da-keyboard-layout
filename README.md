@@ -28,7 +28,7 @@ If your keyboard does not have an AltGr key then you can use right alt instead.
 | Å         | AltGr+a A    | 
 |           | AltGr+A a    |
 |           | AltGr+A A    |   
-| æ         | AltGr+a a    | 
+| æ         | AltGr+a e    | 
 | Æ         | AltGr+a E    | 
 |           | AltGr+A e    |
 |           | AltGr+A E    |  
